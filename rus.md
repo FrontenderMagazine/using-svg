@@ -49,7 +49,7 @@ SVG - это формат векторной графики. Буквально 
 
 В Illustrator наша область монтажа имела размеры 612px ✕ 502px.
 
-![Область монтажа](img/artboard.png?raw=true&amp;repo=using-svg "Размеры области монтажа в Illustrator")
+![Область монтажа][Размеры области монтажа в Illustrator]
 
 Именно такие размеры будут у изображения на странице если их не указать 
 специально. Его размеры можно изменить просто изменив `width` или `height` для 
@@ -420,4 +420,5 @@ SVG][37]»:
 [Сохраняем файл с расширением SVG]: img/save-as-svg.png?raw=true&amp;repo=using-svg
 [Настройки сохранения файла с расширением SVG]: img/svg-options.png?raw=true&amp;repo=using-svg
 [окно TextEdit с SVG-кодом]: img/svg-code.png?raw=true&amp;repo=using-svg
+[Размеры области монтажа в Illustrator]: img/artboard.png?raw=true&amp;repo=using-svg 
 [Код, полученный в результате конвертации SVG-файла в Data URI]: img/base64-data.png?raw=true&amp;repo=using-svg

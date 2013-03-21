@@ -15,26 +15,26 @@ on the web pretty easily, but there is plenty you should know.
 
 Design something in Adobe Illustrator. Here's a Kiwi bird standing on an oval.
 
-![Kiwi bird](img/kiwi.png?raw=true&amp;repo=using-svg "A Kiwi bird standing on an oval")
+![Kiwi bird][A Kiwi bird standing on an oval]
 
 Notice the artboard is cropped up right agains the edges of the design. Canvas
 matters in SVG just like it would in PNG or JPG.
 
 You can save the file directly from Adobe Illustrator as an SVG file.
 
-![Saving](img/save-as-svg.png?raw=true&amp;repo=using-svg "Save the file Adobe Illustrator as an SVG file")
+![Saving][Save the file Adobe Illustrator as an SVG file]
 
 As you save it, you'll get another dialog for SVG Options. I honestly don't know
 much about all this. There is a whole spec for [SVG Profiles][1]. I find SVG 1.1
 works fine.
 
-![SVG Options](img/svg-options.png?raw=true&amp;repo=using-svg "As you save the file, you'll get a dialog for SVG Options")
+![SVG Options][As you save the file, you'll get a dialog for SVG Options]
 
 The interesting part here is that you can either press OK and save the file, or
 press "SVG Code..." and it will open TextEdit (on a Mac anyway) with the SVG
 code in it.
 
-![SVG code](img/svg-code.png?raw=true&amp;repo=using-svg "TextEdit with the SVG code in it")
+![SVG code][TextEdit with the SVG code in it]
 
 Both can be useful.
 
@@ -46,7 +46,7 @@ If I save the SVG to a file, I can use it directly in an `<img>` tag.
 
 In Illustrator, our artboard was 612px ✕ 502px.
 
-![Artboard](img/artboard.png?raw=true&amp;repo=using-svg "Size of our artboard in Illustrator")
+![Artboard][Size of our artboard in Illustrator]
 
 That's exactly how big the image will on the page, left to itself. You can
 change the size of it though just by selecting the `img` and changing its
@@ -287,7 +287,7 @@ contents of your SVG file and fill out the form and it will display the results
 in a textarea for you to copy. Remember to remove line breaks in the data it
 gives you back. It looks like pure gibberish:
 
-![Data URI](img/base64-data.png?raw=true&amp;repo=using-svg "The results of SVG convertion into Data URI")
+![Data URI][The results of SVG convertion into Data URI]
 
 You can use that anywhere we've talked about so far (except inline `<svg>`
 because that just doesn't make sense) Just put the gibberish where it says
@@ -399,3 +399,9 @@ browser, [this][40]. But if you absolutely have to support the native browser,
 [40]: https://twitter.com/paul_irish/status/309037258638512129
 [41]: http://www.kendoui.com/blogs/teamblog/posts/12-02-17/using_svg_on_android_2_x_and_kendo_ui_dataviz.aspx
 
+[A Kiwi bird standing on an oval]: img/kiwi.png?raw=true&amp;repo=using-svg
+[Save the file Adobe Illustrator as an SVG file]: img/save-as-svg.png?raw=true&amp;repo=using-svg
+[As you save the file, you'll get a dialog for SVG Options]: img/svg-options.png?raw=true&amp;repo=using-svg
+[TextEdit with the SVG code in it]: img/svg-code.png?raw=true&amp;repo=using-svg
+[Size of our artboard in Illustrator]: img/artboard.png?raw=true&amp;repo=using-svg 
+[The results of SVG convertion into Data URI]: img/base64-data.png?raw=true&amp;repo=using-svg
