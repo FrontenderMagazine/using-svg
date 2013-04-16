@@ -53,7 +53,7 @@ Adobe Illustrator умеет сохранять в SVG.
 
 Именно такие размеры будут у изображения на странице, если их не указать
 специально. Его размеры можно изменить, задав атрибуты `width` или `height` для
-`img`, опять же, точно так же как для PNG или JPG. Вот [пример][2]:
+`img`, так же как для PNG или JPG. Вот [пример][2]:
 
 <pre class="codepen" data-height="300" data-type="result" data-href="nEcjx" data-user="FMRobot" data-safe="true"><code></code><a href="http://codepen.io/FMRobot/pen/nEcjx">Посмотрите на этот пример!</a></pre>
 
