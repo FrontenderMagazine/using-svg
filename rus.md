@@ -318,7 +318,7 @@ SVG-файл можно уменьшить еще сильнее, если ко�
 
 ### Добавление на страницу с использованием тега `<object>`
 
-    <object type="image/svg+xml" data="data:image/svg+xml;base64,[data]>
+    <object type="image/svg+xml" data="data:image/svg+xml;base64,[data]">
       fallback
     </object>
 
