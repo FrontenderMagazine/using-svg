@@ -213,7 +213,7 @@ SVG есть специальный набор свойств CSS. Наприм�
       filter: url(#pictureFilter);
     }
 
-[Пример][14], что может получиться:
+[Пример][14] того, что может получиться:
 
 <pre class="codepen" data-height="300" data-type="result" data-href="evcBu" data-user="chriscoyier" data-safe="true"><code></code><a href="http://codepen.io/chriscoyier/pen/evcBu">Check out this Pen!</a></pre>
 
