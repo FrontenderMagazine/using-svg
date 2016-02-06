@@ -370,7 +370,7 @@ SVG-файл можно уменьшить еще сильнее, если ко�
 [вот][40]. Но если вам никак не обойтись без поддержки родного браузера, [вот][41].
 
 [1]: http://www.w3.org/TR/SVGMobile/
-[2]: http://codepen.io/FMRobot/pen/nEcjx
+[2]: http://codepen.io/chriscoyier/pen/lCEux/
 [3]: http://caniuse.com/#feat=svg-img
 [4]: http://css-tricks.com/workshop-notes-webstock-13/
 [5]: http://css-tricks.com/workshop-notes-from-incontrol-hawaii/
