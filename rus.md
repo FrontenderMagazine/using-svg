@@ -379,7 +379,7 @@ SVG-файл можно уменьшить еще сильнее, если ко�
 [8]: http://benhowdle.im/svgeezy/
 [9]: http://caniuse.com/#feat=svg-css
 [10]: http://css-tricks.com/data-uris/
-[11]: http://petercollingridge.appspot.com/svg_optimiser
+[11]: http://petercollingridge.appspot.com/svg-optimiser
 [12]: http://www.youtube.com/watch?v=iVzW3XuOm7E&feature=youtu.be
 [13]: https://github.com/svg/svgo
 [14]: http://codepen.io/chriscoyier/pen/evcBu
